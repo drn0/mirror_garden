@@ -1,0 +1,34 @@
+/* class 4 div customs , use . */
+body {
+    background-color: rgba(249, 246, 237, 0.963);
+    height: 100%;
+    width: 100%
+}
+
+.bottle {
+    border: solid;
+    border-width: 0.1rem;
+    display: flex;
+    background-color: rgba(124,115,151,255);
+    height: 18rem;
+    width: 34%;
+    padding: 1rem;
+    color: #feffff;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    margin-top: 0rem;
+    text-align: left;
+}
+
+.topper {
+    background-color: rgba(90,80,112,255);
+    width: 34%;
+    color: rgba(90,80,112,255);
+    height: 1rem;
+    padding: 1rem;  
+    margin-bottom: 0rem 
+}
+
+.upd8 {
+    color: rgb(226, 195, 122)
+}

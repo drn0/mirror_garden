@@ -1,2 +1,2 @@
 # mirror_garden
-da mirror garden
+a foray into web design
